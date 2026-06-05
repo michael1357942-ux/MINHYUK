@@ -1,4 +1,3 @@
-# MINHYUK
 <!DOCTYPE html>
 <html lang="ko">
 <head>
